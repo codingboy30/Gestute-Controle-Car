@@ -1,0 +1,5 @@
+MPU6050 pin ESP8266 pin
+VCC.   3V3
+GND.    GND
+SDA     D2 (GPIO4)
+SCL.    D1 (GPIO5
