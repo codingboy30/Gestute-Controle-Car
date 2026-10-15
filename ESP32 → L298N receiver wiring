@@ -1,0 +1,12 @@
+L298N pin ESP32 pin Function
+
+ENA        GPIO 26 Left-side speed
+IN1        GPIO 27 Left-side direction
+IN2        GPIO 14 Left-side direction
+ENB        GPIO 25 Right-side speed
+IN3.       GPIO 33 Right-side direction
+IN4        GPIO 32 Right-side direction
+GND        GND Common ground
+
+
+
